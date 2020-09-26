@@ -22,7 +22,7 @@ You'll need to install:
  
 ## In the presentation, it includes, but not limited to:
 
-a) What are the trends in the underlying data?
-b) Which customer segment has the highest customer value?
-c) What should the Sprocket Central Pty Ltd ’s marketing and growth strategy be?
-d) What should The Sprocket Central Pty Ltd’s marketing team be targeting out of the new 1000 customer list as well as the broader market segment to reach out to? 
+1. What are the trends in the underlying data?   
+2. Which customer segment has the highest customer value?   
+3. What should the Sprocket Central Pty Ltd ’s marketing and growth strategy be?   
+4. What should The Sprocket Central Pty Ltd’s marketing team be targeting out of the new 1000 customer list as well as the broader market segment to reach out to? 
